@@ -1,10 +1,2 @@
 #!/bin/bash
-set -ex
-
-cat <<EOF
-----------------------------------------------
-
-               YOU ARE AWESOME!
-
-----------------------------------------------
-EOF
+curl -fsSL https://deno.land/x/install/install.sh | sh
