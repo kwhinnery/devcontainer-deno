@@ -1,7 +1,7 @@
 {
-  "id": "i-am-awesome",
+  "id": "kwhinnery-devcontainer-deno",
   "version": "0.1.0",
-  "name": "I am awesome",
-  "documentationURL": "https://github.com/octocat/i-am-awesome#readme",
+  "name": "Deno Dev Container",
+  "documentationURL": "https://github.com/kwhinnery/devcontainer-deno",
   "options": {}
 }
